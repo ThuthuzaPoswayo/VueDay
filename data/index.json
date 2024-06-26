@@ -1,0 +1,41 @@
+{
+    "jobTitle": 
+    [
+        {
+            "companyName": "Thutznails",
+            "occupation": "NailTech",
+            "description": "Responsible for acrylic&gel manicures, pedicures and nail extentions and designs",
+    
+        }
+    ],
+
+        "education": [
+    
+        {
+            "institution": "Voortrekker High School",
+            "qualification": "NSC Matric",
+        }
+    ],
+
+    "about": [
+
+          {"description": "I am a young entrepreneur who has gained skills in business management and admin. I am passionate
+          about upskillment of self"
+            
+        }
+    ],
+"skills":[
+        {
+            "skillName1": "Eloquent communication",
+            "skillName2":"Micosoft knowledge",
+            "skilName3": "HTML, CSS, JavaScrispt",
+        }
+    ],
+    
+  "testimonials"  [
+        { 
+            
+
+        }
+    ],
+}

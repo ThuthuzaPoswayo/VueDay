@@ -2,8 +2,8 @@
     "jobTitle": 
     [
         {
-            "companyName": "Thutznails",
-            "occupation": "NailTech",
+            "companyName": "Life Choices Academy",
+            "occupation": "Front-End Web Developer",
             "description": "Responsible for acrylic&gel manicures, pedicures and nail extentions and designs"
     
         }
@@ -19,8 +19,9 @@
 
     "about": [
 
-          "I am a young entrepreneur who has gained skills in business management and admin.",
-          "I am passionate about upskillment of self"
+          "I am a young woman of colour that has taken on the journey to becoming one of the best front-end web developers in the industry.Despite the challenges of the tech industry, I am determined to make a success out my experience at Life Choices as a Web Developments student.  I have gained the fundamental skills and experince in HTML, CSS and JavaScript and I am looking forward to learning much more!The technology industry has grown tremendously, and continues to do so. I am determined to consisently evolve and strengthen my skills. My passion and daring personality makes me stand out!",
+           "I am passionate about upskillment of self. "
+
     ],
 "skills":[
         {

@@ -78,5 +78,21 @@
      }
 
        
+    ],
+
+    "experience" : [
+
+        {
+            "jobTitle":"Entrepreneur",
+            "year" : "2020-2024",
+            "description": "Small Business Owner where I gained experince in social media marketing, customer service and administration"
+        },
+
+        {
+            "jobTitle": "Nail Technitian",
+            "year":"2020-2024",
+            "description": "Responsible for manicures and pedicures"
+        }
+
     ]
 }

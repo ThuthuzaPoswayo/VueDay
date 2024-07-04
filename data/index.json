@@ -34,23 +34,69 @@
            "I am passionate about upskillment of self. "
 
     ],
+
 "skills":[
 
         {
             "id":1,
             "skillName1": "Html",
             "skillName2":"CSS",
-            "skillName": "JavaScript"
-            
-            
+            "skillName": "JavaScript"     
         }
        
     ],
   "testimonials"
   :[
+   
+        {
+            "id":"1",
+            "name":"Yakhupha",
+            "role": "peer",
+            "image":"https://thuthuzaposwayo.github.io/All-images/images/Yakupha.jpg",
+            "testimonial":"I have had the pleasure of working with Thuthuza for a couple of months and I can confidently say that she is an exeptional professional. Her dedication makes her an asset" 
+        },
+        {
+            "id":"2",
+            "name":"Lamlankosi",
+            "role":"peer",
+            "image":"https://thuthuzaposwayo.github.io/All-images/images/Lamla.jpg",
+            "testimonial":"Thuthuza embodies boldness, enthusiasm, and drive. Her kindness and care shine through in every interaction. A true asset to any team, she uplifts others with her positivity and determination. Working with Thuthuza is a joy and an inspiration"
+        },
         {
             
+            "id":"3",
+            "name":"Nuasaibah",
+            "role": "peer",
+            "image":"https://nusaibah01.github.io/all-images/images/20240422_101945.jpg",
+            "testimonial":"Thuthuza posseses excellent written and verbal communication skills,  she consistently goes above and beyond, delivering creative and inspiring work and does not hesitate to help those around her."
+
+        },
+        {
+            
+            "id":"4",
+            "name":"Mapule",
+            "role": "peer",
+            "image":"https://thuthuzaposwayo.github.io/All-images/images/Mapule.jpg",
+            "testimonial":"Thuthuza is true team player and an absolute joy to work with!"
+        },
+        {
+           
+            "id":"5",
+            "name":"Simanye",
+            "role": "peer",
+            "image":"https://thuthuzaposwayo.github.io/All-images/images/Sims.jpg",
+            "testimonial" :"Thuthuza is always within arm's reach when you need help and always assists with kindness and enthusiasm"
+
+        },
+        {
+            
+            "id":"6",
+            "name":"Joel",
+            "role": "Lecturer",
+            "image":"https://thuthuzaposwayo.github.io/All-images/images/joel12.jpg",
+            "testimonial":"Thuthuza is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments. She has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce her as an exceptional candidate and developer. "
         }
+
     ],
 
 

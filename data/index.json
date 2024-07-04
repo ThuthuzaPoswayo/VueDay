@@ -2,6 +2,8 @@
     "jobTitle": 
     [
         {
+            "id":1,
+
             "companyName": "Life Choices Academy",
             "occupation": "Aspiring Front-End Web Developer",
             "description": "Building and designing websites"
@@ -12,12 +14,14 @@
         "education": [
     
         {
+            "id":1,
             "institution": "Voortrekker High School",
             "qualification": "NSC Matric",
             "year":          "2018"
         },
 
         {
+            "id":2,
             "institution": "Life Choices Academy",
             "qualification": "Web Development Certificate",
             "year" : 2024       
@@ -31,7 +35,9 @@
 
     ],
 "skills":[
+
         {
+            "id":1,
             "skillName1": "Html",
             "skillName2":"CSS",
             "skillName": "JavaScript"
@@ -83,12 +89,14 @@
     "experience" : [
 
         {
+            "id":1,
             "jobTitle":"Entrepreneur",
             "year" : "2020-2024",
             "description": "Small Business Owner where I gained experince in social media marketing, customer service and administration"
         },
 
         {
+            "id":2,
             "jobTitle": "Nail Technitian",
             "year":"2020-2024",
             "description": "Responsible for manicures and pedicures"

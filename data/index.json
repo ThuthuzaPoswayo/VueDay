@@ -3,8 +3,8 @@
     [
         {
             "companyName": "Life Choices Academy",
-            "occupation": "Front-End Web Developer",
-            "description": "Responsible for acrylic&gel manicures, pedicures and nail extentions and designs"
+            "occupation": "Aspiring Front-End Web Developer",
+            "description": "Building and designing websites"
     
         }
     ],
@@ -13,7 +13,14 @@
     
         {
             "institution": "Voortrekker High School",
-            "qualification": "NSC Matric"
+            "qualification": "NSC Matric",
+            "year":          "2018"
+        },
+
+        {
+            "institution": "Life Choices Academy",
+            "qualification": "Web Development Certificate",
+            "year" : 2024       
         }
     ],
 
@@ -25,15 +32,51 @@
     ],
 "skills":[
         {
-            "skillName1": "Eloquent communication",
-            "skillName2":"Micosoft knowledge",
-            "skilName3": "HTML, CSS, JavaScrispt"
+            "skillName1": "Html",
+            "skillName2":"CSS",
+            "skillName": "JavaScript"
+            
+            
         }
+       
     ],
   "testimonials"
   :[
         {
-            "id": 1
+            
         }
+    ],
+
+
+    "projects": [
+
+    {  "project":"Business Card",
+       "description": "Online business card created using HTML,CSS & Javascript"
+    },
+     {
+        "project":"Calculator",
+        "description": "Claculator created with all basic functions using HTML,CSS,JavaScript"
+     },
+     {
+        "project": "Keyboard",
+        "description": "built and designed a keyboard using HTML&CSS"
+     },
+    
+     {
+        "project": "Business Poster",
+        "description": "Created an online business poster for marketing purposes using HTML,CSS & JavaScript"
+     },
+     {
+        "project": "Min to Max",
+        "description":"Displays the minimum and max number within an array"
+     },
+
+     {
+         "project": "To-do List",
+         "Description":"To-do list created used to check off list of tasks using HTML and CSS"
+
+     }
+
+       
     ]
 }

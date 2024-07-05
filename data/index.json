@@ -113,32 +113,34 @@
 
     "projects": [
 
-    {  "project":"Business Card",
-       "description": "Online business card created using HTML,CSS & Javascript"
+    {  "project":"Portfolio",
+       "description": "Portfolio created using html and CSS",
+       "vercel link":"https://portfolio1-five-mauve.vercel.app/",
+       "github link":"https://github.com/ThuthuzaPoswayo/Portfolio1.git"
+
     },
      {
         "project":"Calculator",
-        "description": "Claculator created with all basic functions using HTML,CSS,JavaScript"
-     },
-     {
-        "project": "Keyboard",
-        "description": "built and designed a keyboard using HTML&CSS"
+        "description": "Claculator created with all basic functions using HTML,CSS,JavaScript",
+        "vercel link":"https://calculator-one-green.vercel.app/",
+        "github link":"https://github.com/ThuthuzaPoswayo/calculator.git"
      },
     
+    
      {
-        "project": "Business Poster",
-        "description": "Created an online business poster for marketing purposes using HTML,CSS & JavaScript"
+        "project": "E-Commerce Website",
+        "description": "Created an online beauty business poster for marketing purposes using HTML,CSS & JavaScript",
+        "vercel link":"https://java-project-eta.vercel.app/",
+        "github link":"https://github.com/ThuthuzaPoswayo/Java-Project.git"
      },
      {
-        "project": "Min to Max",
-        "description":"Displays the minimum and max number within an array"
-     },
-
-     {
-         "project": "To-do List",
-         "Description":"To-do list created used to check off list of tasks using HTML and CSS"
-
+        "project": "PriceList",
+        "description":"Business Pricelist displaying the services and prices for a smmall business",
+        "vercel link": "https://price-list-eta.vercel.app/",
+        "github link":"https://github.com/ThuthuzaPoswayo/PriceList.git"
      }
+
+     
 
        
     ],

@@ -1,179 +1,149 @@
 {
-    "jobTitle": 
-    [
-        {
-            "id":1,
+  "jobTitle": [
+    {
+      "id": 1,
 
-            "companyName": "Life Choices Academy",
-            "occupation": "Aspiring Front-End Web Developer",
-            "description": "Building and designing websites"
-    
-        }
-    ],
+      "companyName": "Life Choices Academy",
+      "occupation": "Aspiring Front-End Web Developer",
+      "description": "Building and designing websites"
+    }
+  ],
 
-        "education": [
-    
-        {
-            "id":1,
-            "institution": "Voortrekker High School",
-            "qualification": "NSC Matric",
-            "year":          "2018",
-            "image":"https://thuthuzaposwayo.github.io/All-images/voortrekker.jpg"
-        },
-
-        {   "id":2,
-
-            "institution": "SUNCEP",
-            "qualification": "ScimathUs",
-            "year":"2019",
-            "image":"https://thuthuzaposwayo.github.io/All-images/suncep.png"
-
-
-        },
-
-        {
-            "id":3,
-            "institution": "Life Choices Academy",
-            "qualification": "Web Development Certificate",
-            "year" : 2024,
-            "image" :"https://thuthuzaposwayo.github.io/All-images/lifechoices.png"   
-        }
-    ],
-
-    "about": [
-
-          "I am a young woman of colour that has taken on the journey to becoming one of the best front-end web developers in the industry.Despite the challenges of the tech industry, I am determined to make a success out my experience at Life Choices as a Web Developments student.  I have gained the fundamental skills and experince in HTML, CSS and JavaScript and I am looking forward to learning much more!The technology industry has grown tremendously, and continues to do so. I am determined to consisently evolve and strengthen my skills. My passion and daring personality makes me stand out!",
-           "I am passionate about upskillment of self. "
-
-    ],
-
-"skills":[
-
-        {
-            "id":1,
-            "skillName1": "Html",
-            "skillName2":"CSS",
-            "skillName3": "JavaScript",  
-            "skillName":  "Inovative"
-         
-        }
-       
-    ],
-  "testimonials"
-  :[
-   
-        {
-            "id":"1",
-            "name":"Yakhupha",
-            "role": "peer",
-            "image":"https://thuthuzaposwayo.github.io/All-images/images/Yakupha.jpg",
-            "testimonial":"I have had the pleasure of working with Thuthuza for a couple of months and I can confidently say that she is an exeptional professional. Her dedication makes her an asset" 
-        },
-        {
-            "id":"2",
-            "name":"Lamlankosi",
-            "role":"peer",
-            "image":"https://thuthuzaposwayo.github.io/All-images/images/Lamla.jpg",
-            "testimonial":"Thuthuza embodies boldness, enthusiasm, and drive. Her kindness and care shine through in every interaction. A true asset to any team, she uplifts others with her positivity and determination. Working with Thuthuza is a joy and an inspiration"
-        },
-        {
-            
-            "id":"3",
-            "name":"Nuasaibah",
-            "role": "peer",
-            "image":"https://nusaibah01.github.io/all-images/images/20240422_101945.jpg",
-            "testimonial":"Thuthuza posseses excellent written and verbal communication skills,  she consistently goes above and beyond, delivering creative and inspiring work and does not hesitate to help those around her."
-
-        },
-        {
-            
-            "id":"4",
-            "name":"Mapule",
-            "role": "peer",
-            "image":"https://thuthuzaposwayo.github.io/All-images/images/Mapule.jpg",
-            "testimonial":"Thuthuza is true team player and an absolute joy to work with!"
-        },
-        {
-           
-            "id":"5",
-            "name":"Simanye",
-            "role": "peer",
-            "image":"https://thuthuzaposwayo.github.io/All-images/images/Sims.jpg",
-            "testimonial" :"Thuthuza is always within arm's reach when you need help and always assists with kindness and enthusiasm"
-
-        },
-        {
-            
-            "id":"6",
-            "name":"Joel",
-            "role": "Lecturer",
-            "image":"https://thuthuzaposwayo.github.io/All-images/images/joel12.jpg",
-            "testimonial":"Thuthuza is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments. She has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce her as an exceptional candidate and developer. "
-        }
-
-    ],
-
-
-    "projects": [
-
+  "education": [
+    {
+      "id": 1,
+      "institution": "Voortrekker High School",
+      "qualification": "NSC Matric",
+      "year": "2018",
+      "image": "https://thuthuzaposwayo.github.io/All-images/voortrekker.jpg"
+    },
 
     {
-        "id":1,
-      "project":"Portfolio",
-       "description": "Portfolio created using html and CSS",
-       "vercel link":"https://portfolio1-five-mauve.vercel.app/",
-       "github link":"https://github.com/ThuthuzaPoswayo/Portfolio1.git",
-       "image":"https://thuthuzaposwayo.github.io/All-images/projectPortfolio.png"
+      "id": 2,
 
+      "institution": "SUNCEP",
+      "qualification": "ScimathUs",
+      "year": "2019",
+      "image": "https://thuthuzaposwayo.github.io/All-images/suncep.png"
     },
-     {
 
-        "id":2,
-        "project":"Calculator",
-        "description": "Claculator created with all basic functions using HTML,CSS,JavaScript",
-        "vercel link":"https://calculator-one-green.vercel.app/",
-        "github link":"https://github.com/ThuthuzaPoswayo/calculator.git",
-        "image":"https://thuthuzaposwayo.github.io/All-images/projectcalculator.png"
-     },
-    
-    
-     {
-        "id":3,
-        "project": "E-Commerce Website",
-        "description": "Created an online beauty business poster for marketing purposes using HTML,CSS & JavaScript",
-        "vercel link":"https://java-project-eta.vercel.app/",
-        "github link":"https://github.com/ThuthuzaPoswayo/Java-Project.git",
-        "image":"https://thuthuzaposwayo.github.io/All-images/projectCommerce.png"
-     },
-     {
-        "id":4,
-        "project": "PriceList",
-        "description":"Business Pricelist displaying the services and prices for a smmall business",
-        "vercel link": "https://price-list-eta.vercel.app/",
-        "github link":"https://github.com/ThuthuzaPoswayo/PriceList.git",
-        "image":"https://thuthuzaposwayo.github.io/All-images/projectPrices.png"
-     }
+    {
+      "id": 3,
+      "institution": "Life Choices Academy",
+      "qualification": "Web Development Certificate",
+      "year": 2024,
+      "image": "https://thuthuzaposwayo.github.io/All-images/lifechoices.png"
+    }
+  ],
 
-     
+  "about": [
+    "I am a young woman of colour that has taken on the journey to becoming one of the best front-end web developers in the industry.Despite the challenges of the tech industry, I am determined to make a success out my experience at Life Choices as a Web Developments student.  I have gained the fundamental skills and experince in HTML, CSS and JavaScript and I am looking forward to learning much more!The technology industry has grown tremendously, and continues to do so. I am determined to consisently evolve and strengthen my skills. My passion and daring personality makes me stand out!",
+    "I am passionate about upskillment of self. "
+  ],
 
-       
-    ],
+  "skills": [
+    {
+      "id": 1,
+      "skillName1": "Html",
+      "skillName2": "CSS",
+      "skillName3": "JavaScript",
+      "skillName": "Inovative"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "1",
+      "name": "Yakhupha",
+      "role": "peer",
+      "image": "https://thuthuzaposwayo.github.io/All-images/images/Yakupha.jpg",
+      "testimonial": "I have had the pleasure of working with Thuthuza for a couple of months and I can confidently say that she is an exeptional professional. Her dedication makes her an asset"
+    },
+    {
+      "id": "2",
+      "name": "Lamlankosi",
+      "role": "peer",
+      "image": "https://thuthuzaposwayo.github.io/All-images/images/Lamla.jpg",
+      "testimonial": "Thuthuza embodies boldness, enthusiasm, and drive. Her kindness and care shine through in every interaction. A true asset to any team, she uplifts others with her positivity and determination. Working with Thuthuza is a joy and an inspiration"
+    },
+    {
+      "id": "3",
+      "name": "Nuasaibah",
+      "role": "peer",
+      "image": "https://nusaibah01.github.io/all-images/images/20240422_101945.jpg",
+      "testimonial": "Thuthuza posseses excellent written and verbal communication skills,  she consistently goes above and beyond, delivering creative and inspiring work and does not hesitate to help those around her."
+    },
+    {
+      "id": "4",
+      "name": "Mapule",
+      "role": "peer",
+      "image": "https://thuthuzaposwayo.github.io/All-images/images/Mapule.jpg",
+      "testimonial": "Thuthuza is true team player and an absolute joy to work with!"
+    },
+    {
+      "id": "5",
+      "name": "Simanye",
+      "role": "peer",
+      "image": "https://thuthuzaposwayo.github.io/All-images/images/Sims.jpg",
+      "testimonial": "Thuthuza is always within arm's reach when you need help and always assists with kindness and enthusiasm"
+    },
+    {
+      "id": "6",
+      "name": "Joel",
+      "role": "Lecturer",
+      "image": "https://thuthuzaposwayo.github.io/All-images/images/joel12.jpg",
+      "testimonial": "Thuthuza is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments. She has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce her as an exceptional candidate and developer. "
+    }
+  ],
 
-    "experience" : [
+  "projects": [
+    {
+      "id": 1,
+      "project": "Portfolio",
+      "description": "Portfolio created using html and CSS",
+      "vercel-link": "https://portfolio1-five-mauve.vercel.app/",
+      "github-link": "https://github.com/ThuthuzaPoswayo/Portfolio1.git",
+      "image": "https://thuthuzaposwayo.github.io/All-images/projectPortfolio.png"
+    },
+    {
+      "id": 2,
+      "project": "Calculator",
+      "description": "Claculator created with all basic functions using HTML,CSS,JavaScript",
+      "vercel-link": "https://calculator-one-green.vercel.app/",
+      "github-link": "https://github.com/ThuthuzaPoswayo/calculator.git",
+      "image": "https://thuthuzaposwayo.github.io/All-images/projectcalculator.png"
+    },
 
-        {
-            "id":1,
-            "jobTitle":"Entrepreneur",
-            "year" : "2020-2024",
-            "description": "Small Business Owner where I gained experince in social media marketing, customer service and administration"
-        },
+    {
+      "id": 3,
+      "project": "E-Commerce Website",
+      "description": "Created an online beauty business poster for marketing purposes using HTML,CSS & JavaScript",
+      "vercel-link": "https://java-project-eta.vercel.app/",
+      "github-link": "https://github.com/ThuthuzaPoswayo/Java-Project.git",
+      "image": "https://thuthuzaposwayo.github.io/All-images/projectCommerce.png"
+    },
+    {
+      "id": 4,
+      "project": "PriceList",
+      "description": "Business Pricelist displaying the services and prices for a smmall business",
+      "vercel-link": "https://price-list-eta.vercel.app/",
+      "github-link": "https://github.com/ThuthuzaPoswayo/PriceList.git",
+      "image": "https://thuthuzaposwayo.github.io/All-images/projectPrices.png"
+    }
+  ],
 
-        {
-            "id":2,
-            "jobTitle": "Nail Technitian",
-            "year":"2020-2024",
-            "description": "Responsible for manicures and pedicures"
-        }
+  "experience": [
+    {
+      "id": 1,
+      "jobTitle": "Entrepreneur",
+      "year": "2020-2024",
+      "description": "Small Business Owner where I gained experince in social media marketing, customer service and administration"
+    },
 
-    ]
+    {
+      "id": 2,
+      "jobTitle": "Nail Technitian",
+      "year": "2020-2024",
+      "description": "Responsible for manicures and pedicures"
+    }
+  ]
 }

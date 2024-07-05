@@ -17,14 +17,16 @@
             "id":1,
             "institution": "Voortrekker High School",
             "qualification": "NSC Matric",
-            "year":          "2018"
+            "year":          "2018",
+            "image":"https://thuthuzaposwayo.github.io/All-images/voortrekker.jpg"
         },
 
         {   "id":2,
 
             "institution": "SUNCEP",
             "qualification": "ScimathUs",
-            "year":"2019"
+            "year":"2019",
+            "image":"https://thuthuzaposwayo.github.io/All-images/suncep.png"
 
 
         },
@@ -33,7 +35,8 @@
             "id":3,
             "institution": "Life Choices Academy",
             "qualification": "Web Development Certificate",
-            "year" : 2024       
+            "year" : 2024,
+            "image" :"https://thuthuzaposwayo.github.io/All-images/lifechoices.png"   
         }
     ],
 
@@ -113,31 +116,42 @@
 
     "projects": [
 
-    {  "project":"Portfolio",
+
+    {
+        "id":1,
+      "project":"Portfolio",
        "description": "Portfolio created using html and CSS",
        "vercel link":"https://portfolio1-five-mauve.vercel.app/",
-       "github link":"https://github.com/ThuthuzaPoswayo/Portfolio1.git"
+       "github link":"https://github.com/ThuthuzaPoswayo/Portfolio1.git",
+       "image":"https://thuthuzaposwayo.github.io/All-images/projectPortfolio.png"
 
     },
      {
+
+        "id":2,
         "project":"Calculator",
         "description": "Claculator created with all basic functions using HTML,CSS,JavaScript",
         "vercel link":"https://calculator-one-green.vercel.app/",
-        "github link":"https://github.com/ThuthuzaPoswayo/calculator.git"
+        "github link":"https://github.com/ThuthuzaPoswayo/calculator.git",
+        "image":"https://thuthuzaposwayo.github.io/All-images/projectcalculator.png"
      },
     
     
      {
+        "id":3,
         "project": "E-Commerce Website",
         "description": "Created an online beauty business poster for marketing purposes using HTML,CSS & JavaScript",
         "vercel link":"https://java-project-eta.vercel.app/",
-        "github link":"https://github.com/ThuthuzaPoswayo/Java-Project.git"
+        "github link":"https://github.com/ThuthuzaPoswayo/Java-Project.git",
+        "image":"https://thuthuzaposwayo.github.io/All-images/projectCommerce.png"
      },
      {
+        "id":4,
         "project": "PriceList",
         "description":"Business Pricelist displaying the services and prices for a smmall business",
         "vercel link": "https://price-list-eta.vercel.app/",
-        "github link":"https://github.com/ThuthuzaPoswayo/PriceList.git"
+        "github link":"https://github.com/ThuthuzaPoswayo/PriceList.git",
+        "image":"https://thuthuzaposwayo.github.io/All-images/projectPrices.png"
      }
 
      
